@@ -1,30 +1,61 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 16, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Understood How forms work.
 
 
-### Day 1: June 27, Monday
+**Link to work:** [Solo learn](https://code.sololearn.com/WVrD6yQyylbs/#html)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 2: May 17, 2018
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Understood how box model works.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: I had challeng on overiding browser default rules.
+
+### Day 3: May 18, 2018
+
+**Today's Progress**: Started freeCodeCamp Tribute project.
+
+**Thoughts**: I struggled with the layout since i din't use any framework.
+
+**Link to work**: [Mzee Jomo Kenyatta](https://kylekibet.github.io/jomokenyatta-tribute-page/)
+
+
+### Day 4: May 19, 2018
+
+**Today's Progress**: Updated freeCodeCamp Tribute project.
+
+**Thoughts** I made a better looking layout than before and also corrected the position of Mzee Jomo Kenyatta's photo.
+
+**Link to work** [Mzee Jomo Kenyatta](https://kylekibet.github.io/jomokenyatta-tribute-page/)
+
+### Day 5: May 20, 2018
+
+**Today's Progress**: Started freeCodeCamp JavaSctript.
+
+**Link to work** 
+
+1. [Comment your JavaScript Code](https://www.freecodecamp.org/kylekibet)
+2. [Declare JavaScript Variables](https://www.freecodecamp.com/kylekibet)
+3. [Storing Values with the Assignment Operator](https://www.freecodecamp.com/kylekibet)
+4. [Initializing Variables with the Assignment Operator](https://www.freecodecamp.com/kylekibet)
+5. [Understanding Uninitialized Variables](https://www.freecodecamp.com/kylekibet)
+6. [Understanding Case Sensitivity in Variables](https://www.freecodecamp.com/kylekibet)
+7. [Add Two Numbers with JavaScript](https://www.freecodecamp.com/kylekibet)
+8. [Subtract One Number from Another with JavaScript](https://www.freecodecamp.com/kylekibet)
+9. [Multiply Two Numbers with JavaScript](https://www.freecodecamp.com/kylekibet)
+
+### Day 6 - 7: May (21-22), 2018
+
+**Today's Progress**: Updated freeCodeCamp tribute project By adding fontawsome at the footer of the web page.
+
+**Thoughts**
+
+**Link to work** [Mzee Jomo Kenyatta](https://kylekibet.github.io/jomokenyatta-tribute-page/)
+
+### Day 8: May 23, 2018
+
+**Today's Progress**: Did string Concatenating at freeCodeCamp.
+
+**Link to work** [String Concatenating](https://www.freecodecamp.org/kylekibet)
